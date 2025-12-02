@@ -1,6 +1,3 @@
-# Global-warming-trend-analysis
-Analyzing 175+ years of Global Temperature Anomalies to visualize warming trends, regional disparities, and the acceleration of modern climate change through interactive dashboarding.
-
 # 🌍 Global Temperature Anomaly Analysis (1850–2025)
 
 ![Project Status](https://img.shields.io/badge/Status-Completed-success) ![Domain](https://img.shields.io/badge/Domain-Climate%20Data%20Analysis-blue)
